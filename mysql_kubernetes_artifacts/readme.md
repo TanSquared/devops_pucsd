@@ -17,3 +17,5 @@ kubectl create -f configmap.yaml
 kubectl create -f db-deployment.yaml
 kubectl get pods --watch
 ```
+
+![](./'mysql_artifacts 1.png')
